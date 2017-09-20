@@ -51,6 +51,7 @@
 
 	hr {
 		margin: 1em;
+		border-color: #fff;
 	}
 
 	@media screen and (max-width: 1680px) {
